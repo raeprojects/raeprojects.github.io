@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fraeprojects%2Fraeprojects.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fraeprojects%2Fraeprojects.github.io?ref=badge_shield)
+
 # [Start Bootstrap](http://startbootstrap.com/) - [New Age](http://startbootstrap.com/template-overviews/new-age/)
 
 [New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
